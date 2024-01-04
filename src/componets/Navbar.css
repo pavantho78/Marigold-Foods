@@ -1,0 +1,17 @@
+ @media (min-width:1024px){    
+    .body{
+        background-image:url("/src/assets/Scooter.jpg");
+        background-repeat:no-repeat;
+        height:70vh;
+        background-size:60vw 70vh;
+        background-position:right top;
+    }   
+   }
+   
+   .body{
+        background-image:url("/src/assets/Scooter.jpg");
+        background-repeat:no-repeat;
+        height:70vh;
+        background-size:60vw 70vh;
+        background-position:right top;   
+   }  
